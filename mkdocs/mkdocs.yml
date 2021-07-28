@@ -4,13 +4,13 @@ nav:
        - 'Панель телефонии': 'my_dialogs.md'
        - 'Карточка клиента': 'card_client.md'
     - История диалогов: 
-       - 'Фильтр': 'my_dialogs.md'
-       - 'Сохраненный фильтр': 'index.md'
-    - Панель супервайзера: 'index.md'
+       - 'Фильтр': 'empty.md'
+       - 'Сохраненный фильтр': 'empty.md'
+    - Панель супервайзера: 'empty.md'
     - 'User Guide':
         - 'Writing your docs': 'writing-your-docs.md'
-    - Статистика: 'index.md'
-    - Настройки: 'index.md'
+    - Статистика: 'empty.md'
+    - Настройки: 'empty.md'
     - Телефония: 'phonilia.md'
     - Служебное: 'tehno.md'
 
