@@ -1,21 +1,4 @@
 site_name: OmniLead
 nav:
     - Мои диалоги:
-       - 'Панель телефонии': 'my_dialogs.md'
-       - 'Карточка клиента': 'card_client.md'
-    - История диалогов: 
-       - 'Фильтр': 'empty.md'
-       - 'Сохраненный фильтр': 'empty.md'
-    - Панель супервайзера: 'empty.md'
-    - 'User Guide':
-        - 'Writing your docs': 'writing-your-docs.md'
-    - Статистика: 'empty.md'
-    - Настройки: 'empty.md'
-    - Телефония: 'phonilia.md'
-    - Служебное: 'tehno.md'
-
-theme: readthedocs
-markdown_extensions:
-  - attr_list
-  - admonition
-
+ 
