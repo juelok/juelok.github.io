@@ -1,1 +1,6 @@
 site_name: My Docs
+site_url: https://juelok.github.io/kulinar1/
+site_dir: public
+
+nav: 
+- Home: 'index.md'
